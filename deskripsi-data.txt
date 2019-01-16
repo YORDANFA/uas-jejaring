@@ -1,0 +1,11 @@
+Deskripsi Data jaringan facebook_combined Eropa
+Tugas UAS Jejaring Sosial
+
+Disusun Oleh :
+Rizki Cesta Widiyani (15.01.53.0139)
+Yordan Famelio M.(15.01.53.0137)
+Dina Yunliana (15.01.53.0156)
+
+Penjelasan:
+    Dataset Jejaring Sosisal ini terdiri dari 'lingkaran' (atau 'daftar teman') dari Facebook. Data Facebook dikumpulkan dari peserta survei menggunakan aplikasi Facebook. Dimana Dataset mencakup fitur simpul (profil), lingkaran, dan jaringan ego.
+    Data Facebook telah dianonimkan dengan mengganti id Facebook-internal untuk setiap pengguna dengan nilai baru. Juga, sementara vektor fitur dari dataset ini telah disediakan, interpretasi fitur-fitur tersebut telah dikaburkan. Misalnya, di mana dataset asli mungkin berisi fitur "political = Democratic Party", data baru hanya akan berisi "political = anonymousized feature 1". Dengan demikian, dengan menggunakan data anonim dimungkinkan untuk menentukan apakah dua pengguna memiliki afiliasi politik yang sama, tetapi tidak mewakili apa yang masing-masing mewakili afiliasi politik mereka.
